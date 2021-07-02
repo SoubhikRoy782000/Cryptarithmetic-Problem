@@ -15,11 +15,7 @@ variable domains, values that cannot appear in solutions.
 Calculations –
 
 1. SEND + MORE = MONEY
-  S E N D
-+ M O R E
-------------------
-M O N E Y
-------------------
+
 • From Column 5, M=1, since it is the only carry-over possible from the sum of 2 single digit numbers in column 4.
 • To produce a carry from column 4 to column 5 'S + M' is at least 9 so 'S=8or9' so 'S+M=9or10' & so 'O = 0 or 1'. But 'M=1', so 'O = 0'.
 • If there is carry from Column 3 to 4 then 'E=9' & so 'N=0'. But 'O = 0' so there is no carry & 'S=9' & 'c3=0'.
@@ -32,18 +28,7 @@ assigned). N is at most 7 & 'N=E+1' so 'E=5or6'.
 
 SOLUTION:
 
-  9 5 6 7
-+ 1 0 8 5
------------------
-1 0 6 5 2
------------------
+SEND(9567) + MORE(1085) = MONEY(10652)
 
 VALUES:
-S=9
-E=5
-N=6
-D=7
-M=1
-O=0
-R=8
-Y=2
+S=9, E=5, N=6, D=7, M=1, O=0, R=8, Y=2
